@@ -1,6 +1,6 @@
 # mysoul
 
-A new Flutter project.
+A new Flutter project. This is only work for andriod application.
 
 ## Getting Started
 
