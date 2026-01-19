@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112768245670",
+    "project_id": "my-soul-1e398",
+    "storage_bucket": "my-soul-1e398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112768245670:android:ede67b32f9d49f547e3967",
+        "android_client_info": {
+          "package_name": "com.kyaw.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJ1indbAtWuDBevJiYYDIONopQDTFHP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112768245670:android:996e7c76f5d32fe57e3967",
+        "android_client_info": {
+          "package_name": "com.mysoul.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJ1indbAtWuDBevJiYYDIONopQDTFHP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
